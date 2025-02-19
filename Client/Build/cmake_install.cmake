@@ -1,4 +1,4 @@
-# Install script for directory: /home/tommylz/文档/C++/ECAV
+# Install script for directory: /home/tommylz/文档/C++/ECSAF/Client
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/tommylz/文档/C++/ECAV/Build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/tommylz/文档/C++/ECSAF/Client/Build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

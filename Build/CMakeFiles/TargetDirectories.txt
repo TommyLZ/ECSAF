@@ -1,3 +1,0 @@
-/home/tommylz/文档/C++/ECAV/Build/CMakeFiles/build.dir
-/home/tommylz/文档/C++/ECAV/Build/CMakeFiles/edit_cache.dir
-/home/tommylz/文档/C++/ECAV/Build/CMakeFiles/rebuild_cache.dir
